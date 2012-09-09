@@ -1,0 +1,124 @@
+HVite -A -D -T 1 -l * -o SWT -b silence -C ./input_files/config -H ./interim_files/hmm7/macros -H ./interim_files/hmm7/hmmdefs -i ./interim_files/aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I ./interim_files/words.mlf -S ./interim_files/train.scp ./interim_files/dict1 ./interim_files/monophones1 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+Read 33 physical / 33 logical HMMs
+Label file will be used to align each file
+Aligning File: ../train/mfcc/sample1.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence василий события на завтра события на завтра события сегодня silence  ==  [482 frames] -46.8711 [Ac=-22591.9 LM=0.0] (Act=5.9)
+Aligning File: ../train/mfcc/sample2.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+silence василий погода сегодня погода сегодня silence  ==  [378 frames] -45.9911 [Ac=-17384.6 LM=0.0] (Act=5.5)
+Aligning File: ../train/mfcc/sample3.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+silence василий спать дата хватит подъем silence  ==  [428 frames] -45.1660 [Ac=-19331.0 LM=0.0] (Act=6.1)
+Aligning File: ../train/mfcc/sample4.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+silence василий дата почта silence  ==  [277 frames] -44.1685 [Ac=-12234.7 LM=0.0] (Act=5.6)
+Aligning File: ../train/mfcc/sample5.mfc
+Created lattice with 21 nodes / 20 arcs from label file
+silence василий спать почта время дата дата адрес адрес почта почта новости время статус подъем спать спать спать подъем время silence  ==  [1060 frames] -46.3419 [Ac=-49122.4 LM=0.0] (Act=5.8)
+Aligning File: ../train/mfcc/sample6.mfc
+Created lattice with 4 nodes / 3 arcs from label file
+silence василий дата silence  ==  [213 frames] -42.5703 [Ac=-9067.5 LM=0.0] (Act=5.6)
+Aligning File: ../train/mfcc/sample7.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence василий спать статус почта время адрес дата дата статус silence  ==  [503 frames] -45.7051 [Ac=-22989.7 LM=0.0] (Act=6.5)
+Aligning File: ../train/mfcc/sample8.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence василий события на завтра события сегодня события на завтра погода на завтра события сегодня silence  ==  [614 frames] -47.7401 [Ac=-29312.4 LM=0.0] (Act=6.9)
+Aligning File: ../train/mfcc/sample9.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence василий события сегодня события на завтра погода на завтра события на завтра silence  ==  [515 frames] -47.7594 [Ac=-24596.1 LM=0.0] (Act=6.3)
+Aligning File: ../train/mfcc/sample10.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+silence василий адрес подъем почта дата silence  ==  [308 frames] -44.4894 [Ac=-13702.7 LM=0.0] (Act=6.3)
+Aligning File: ../train/mfcc/sample11.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence василий погода сегодня события на завтра silence  ==  [363 frames] -44.9349 [Ac=-16311.4 LM=0.0] (Act=5.4)
+Aligning File: ../train/mfcc/sample12.mfc
+Created lattice with 21 nodes / 20 arcs from label file
+silence василий новости время адрес почта хватит подъем время хватит новости хватит дата время адрес статус почта спать почта спать silence  ==  [950 frames] -47.8419 [Ac=-45449.8 LM=0.0] (Act=6.5)
+Aligning File: ../train/mfcc/sample13.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence василий события на завтра погода на завтра погода сегодня события сегодня погода сегодня silence  ==  [596 frames] -47.5625 [Ac=-28347.3 LM=0.0] (Act=6.6)
+Aligning File: ../train/mfcc/sample14.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+silence василий спать дата silence  ==  [258 frames] -43.8111 [Ac=-11303.3 LM=0.0] (Act=5.8)
+Aligning File: ../train/mfcc/sample15.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+silence василий почта время silence  ==  [251 frames] -42.2537 [Ac=-10605.7 LM=0.0] (Act=5.5)
+Aligning File: ../train/mfcc/sample16.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence василий почта время адрес почта новости спать дата время silence  ==  [501 frames] -46.9827 [Ac=-23538.3 LM=0.0] (Act=6.0)
+Aligning File: ../train/mfcc/sample17.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence василий дата время хватит адрес почта статус новости время спать хватит спать silence  ==  [604 frames] -48.8693 [Ac=-29517.0 LM=0.0] (Act=5.8)
+Aligning File: ../train/mfcc/sample18.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence василий события на завтра события на завтра события на завтра silence  ==  [435 frames] -46.0441 [Ac=-20029.2 LM=0.0] (Act=5.4)
+Aligning File: ../train/mfcc/sample19.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence василий погода сегодня события на завтра silence  ==  [387 frames] -45.4592 [Ac=-17592.7 LM=0.0] (Act=5.4)
+Aligning File: ../train/mfcc/sample20.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence василий погода на завтра погода сегодня silence  ==  [340 frames] -46.0159 [Ac=-15645.4 LM=0.0] (Act=5.7)
+Aligning File: ../train/mfcc/sample21.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+silence василий хватит новости silence  ==  [280 frames] -46.7042 [Ac=-13077.2 LM=0.0] (Act=5.7)
+Aligning File: ../train/mfcc/sample22.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+silence василий новости адрес статус время silence  ==  [359 frames] -45.4693 [Ac=-16323.5 LM=0.0] (Act=5.4)
+Aligning File: ../train/mfcc/sample23.mfc
+Created lattice with 4 nodes / 3 arcs from label file
+silence василий время silence  ==  [205 frames] -42.1723 [Ac=-8645.3 LM=0.0] (Act=5.9)
+Aligning File: ../train/mfcc/sample24.mfc
+Created lattice with 4 nodes / 3 arcs from label file
+silence василий адрес silence  ==  [198 frames] -45.0397 [Ac=-8917.9 LM=0.0] (Act=5.4)
+Aligning File: ../train/mfcc/sample25.mfc
+Created lattice with 4 nodes / 3 arcs from label file
+silence василий спать silence  ==  [188 frames] -44.9946 [Ac=-8459.0 LM=0.0] (Act=5.2)
+Aligning File: ../train/mfcc/sample26.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence василий погода на завтра события сегодня silence  ==  [326 frames] -47.0491 [Ac=-15338.0 LM=0.0] (Act=5.9)
+Aligning File: ../train/mfcc/sample27.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+silence василий статус время почта спать silence  ==  [305 frames] -46.9072 [Ac=-14306.7 LM=0.0] (Act=5.0)
+Aligning File: ../train/mfcc/sample28.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+silence василий статус время хватит новости silence  ==  [328 frames] -48.1201 [Ac=-15783.4 LM=0.0] (Act=5.5)
+Aligning File: ../train/mfcc/sample29.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+silence василий статус спать почта silence  ==  [299 frames] -45.2535 [Ac=-13530.8 LM=0.0] (Act=5.0)
+Aligning File: ../train/mfcc/sample30.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+silence василий статус подъем почта silence  ==  [302 frames] -45.3508 [Ac=-13695.9 LM=0.0] (Act=5.1)
+Aligning File: ../train/mfcc/sample31.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+silence василий новости спать подъем silence  ==  [301 frames] -44.4213 [Ac=-13370.8 LM=0.0] (Act=5.6)
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+                  NUMCEPS                       12
+                  CEPLIFTER                     22
+                  NUMCHANS                      26
+                  PREEMCOEF               0.970000
+                  USEHAMMING                  TRUE
+                  WINDOWSIZE         250000.000000
+                  SAVEWITHCRC                 TRUE
+                  SAVECOMPRESSED              TRUE
+                  TARGETRATE         100000.000000
+                  TARGETKIND          MFCC_0_D_N_Z
+

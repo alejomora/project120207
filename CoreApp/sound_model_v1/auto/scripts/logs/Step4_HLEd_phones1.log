@@ -1,0 +1,69 @@
+HLEd -A -D -T 1 -l * -d ./interim_files/dict -i ./interim_files/phones1.mlf ./input_files/mkphones1.led ./interim_files/words.mlf 
+
+No HTK Configuration Parameters Set
+
+Editing file: sample1.lab
+   56 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample2.lab
+   35 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample3.lab
+   29 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample4.lab
+   18 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample5.lab
+   98 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample6.lab
+   13 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample7.lab
+   48 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample8.lab
+   85 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample9.lab
+   70 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample10.lab
+   29 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample11.lab
+   38 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample12.lab
+   105 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample13.lab
+   80 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample14.lab
+   17 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample15.lab
+   19 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample16.lab
+   49 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample17.lab
+   66 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample18.lab
+   57 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample19.lab
+   38 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample20.lab
+   36 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample21.lab
+   22 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample22.lab
+   32 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample23.lab
+   14 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample24.lab
+   14 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample25.lab
+   13 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample26.lab
+   38 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample27.lab
+   29 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample28.lab
+   33 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample29.lab
+   24 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample30.lab
+   26 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+Editing file: sample31.lab
+   26 adds; 0 deletes; 0 replaces; 0 changes; 0 merges
+
+No HTK Configuration Parameters Set
+

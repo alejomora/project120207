@@ -1,0 +1,32 @@
+% NS_B
+<s> sil
+
+% NS_E
+</s> sil
+
+% ID
+IDENT		v a ss ii ll ae j
+
+% COMMAND
+ADRESS		aa d rr ae s
+TIME		v rr ee mm a
+DATE		d aa t a
+NEWS		n oo v ay s tt i
+UP		p a d j ee m
+MAIL		p oo ch t a
+SLEEP		s p aa tt
+STATUS		s t aa t ur s
+STOP		h v a tt ii t
+
+%COMMAND_BIG
+EVENTS		s a b yy tt ae j a
+WEATHER		p a g oo d a
+
+% PREDLOG
+OF		n aa
+
+% DEN
+TOMORROW	z aa f t r a
+
+% DEN_NO_PRED
+TODAY           ss i g oo d nn a

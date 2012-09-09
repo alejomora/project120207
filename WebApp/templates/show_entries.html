@@ -1,0 +1,21 @@
+{% extends 'layout.html' %}
+{% block body %}
+{% if session.logged_in %}
+    <form action="{{ url_for('add_entry') }}" method="POST" class="add-entry">
+        <dl>
+            <dt>Ключ:
+            <dd><input type="text" size="30" name="key">
+            <dt>Значение:
+            <dd><input type="text" size="30" name="value">
+            <dd><input type="submit" value="Добавить"></dd>
+        </dl>
+    </form>
+{% endif %}
+<ul class="entries">
+{% for entry in entries %}
+    <li><h2>{{ entry.key }}</h2>{{ entry.value|safe }}</li>
+{% else %}
+    <li><em>Основная таблица пустая</em></li>
+{% endfor %}
+</ul>
+{% endblock %}

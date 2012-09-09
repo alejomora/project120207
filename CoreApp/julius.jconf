@@ -1,0 +1,6 @@
+## Grammar definition file (DFA and dictionary)
+-dfa sound_model_v1/auto/control.dfa
+-v sound_model_v1/auto/control.dict
+-h sound_model_v1/auto/acoustic_model_files/hmmdefs
+-hlist sound_model_v1/auto/acoustic_model_files/tiedlist
+-smpFreq 48000

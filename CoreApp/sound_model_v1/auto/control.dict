@@ -1,0 +1,17 @@
+0	[<s>]	sil
+1	[</s>]	sil
+2	[IDENT]	v a ss ii ll ae j
+3	[ADRESS]	aa d rr ae s
+3	[TIME]	v rr ee mm a
+3	[DATE]	d aa t a
+3	[NEWS]	n oo v ay s tt i
+3	[UP]	p a d j ee m
+3	[MAIL]	p oo ch t a
+3	[SLEEP]	s p aa tt
+3	[STATUS]	s t aa t ur s
+3	[STOP]	h v a tt ii t
+4	[EVENTS]	s a b yy tt ae j a
+4	[WEATHER]	p a g oo d a
+5	[OF]	n aa
+6	[TOMORROW]	z aa f t r a
+7	[TODAY]	ss i g oo d nn a

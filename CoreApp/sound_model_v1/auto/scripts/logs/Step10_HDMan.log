@@ -1,0 +1,10 @@
+HDMan -A -D -T 1 -b sp -n ./interim_files/fulllist -g ./input_files/global.ded -l logs/Step10_HDMan.flog ./interim_files/dict-tri ../../lexicon/voxforge_lexicon 
+
+No HTK Configuration Parameters Set
+
+Output dictionary ./interim_files/dict-tri opened 
+Source dictionary ../../lexicon/voxforge_lexicon opened 
+Dictionary ./interim_files/dict-tri created - 17 words processed, 0 missing
+
+No HTK Configuration Parameters Set
+
